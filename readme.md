@@ -29,7 +29,7 @@ A simple, lightweight, and ad-free Android utility that allows you to bring up t
 
 ### 🔧 如何使用 (How to Use)
 
-1.  前往 [Releases 页面](https://github.com/你的用户名/Android-Edge-Volume-Helper/releases) 下载最新的 `.apk` 安装包。
+1.  前往 [Releases 页面](https://github.com/gengshenchen/Android-Edge-Volume-Helper/releases) 下载最新的 `.apk` 安装包。
 2.  安装应用。
 3.  打开“边缘音量助手”应用。
 4.  点击 "前往设置开启" 按钮，页面会自动跳转到系统的“无障碍”设置列表。
@@ -60,4 +60,3 @@ Copyright 2025, [gengshenchen]
 ### 致谢 (Acknowledgments)
 
 * 感谢 Google 提供的 Android 开发平台。
-* 感谢一路上为我提供指导的热心人。
