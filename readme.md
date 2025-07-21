@@ -42,7 +42,7 @@ A simple, lightweight, and ad-free Android utility that allows you to bring up t
 
 如果您想自己编译或修改本项目：
 
-1.  克隆本仓库: `git clone https://github.com/你的用户名/Android-Edge-Volume-Helper.git`
+1.  克隆本仓库: `git clone https://github.com/gengshenchen/Android-Edge-Volume-Helper.git`
 2.  用 Android Studio 打开项目。
 3.  等待 Gradle 同步完成。
 4.  直接点击 "Run" 即可编译和安装。
